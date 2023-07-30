@@ -8,7 +8,7 @@ This project is further detailed in the following scientific article:
 
 ## Overview
 This project involves a set of data-based fault detection and diagnosis techniques to deeply understand real building operation and identify potential building faults.
-The techniques are divided into three action areas, related to building characteristics (A), energy systems (B), and occupants’ behaviour (C).
+The techniques are divided into three action areas, related to indoor environmental quality (A), energy systems (B), and occupants’ behaviour and perception (C).
 
 
 
@@ -33,7 +33,7 @@ The techniques are divided into three action areas, related to building characte
 The approach is divided into different Jypyter Notebooks to guide the workflow.
 
 
-**A.Building characteristics**
+**A.Indoor environmental quality**
 - **Notebook a1_Ventilation_diagnosis** - CO2 concentration above 1000ppm.
 - **Notebook a2_Airtightness_diagnosis** - CO2-based decay method.
 
@@ -41,7 +41,7 @@ The approach is divided into different Jypyter Notebooks to guide the workflow.
 - **Notebook b1_Unsupervised_load_disaggregation** - Load disaggregation through non-intrusive load monitoring (NILM). 
 - **Notebook b2_Thermostat_Control_Diagnosis** - Evaluation of the heating system working at full-load and partial-load operation.
 
-**C.Occupants’ behaviour**
+**C.Occupants’ behaviour and perception**
 - **Notebook c1_Lighting_system_diagnosis** - Percentage of time in which lighting is on in unoccupied spaces.
 - **Notebook c2_Discrepancies_occupancy_operation** - Percentage of time in which fixed building/HVAC operating schedules don’t match with occupancy.
 
@@ -71,3 +71,9 @@ POE_techniques/
 │       
 └──
 ```
+## Contributing researchers
+------------
+- Dr Jesús Lizana
+- Dr Elnaz Azizi
+- Dr Scot Wheeler
+- Jonathan Wheeler
